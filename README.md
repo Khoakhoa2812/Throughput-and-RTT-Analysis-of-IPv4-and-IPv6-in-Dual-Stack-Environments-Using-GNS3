@@ -6,7 +6,7 @@ This project involves the design, simulation, and performance benchmarking of a 
 
 **2\. Methodology & Topology Design**
 
-![Topology design](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/images/Topology%20design.png)
+![Topology design](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/main/images/Topology%20design.png)
 
 **_Figure_**_: Network Topology Design_
 
@@ -16,11 +16,11 @@ This project involves the design, simulation, and performance benchmarking of a 
 
 **3\. Configuration & Implementation**
 
-![Router configuration](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/images/Router%20configuration.png)
+![Router configuration](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/main/images/Router%20configuration.png)
 
 **_Figure_**_: Router configuration_
 
-![Linux network configuration](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/images/Linux%20network%20configuration.png)
+![Linux network configuration](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/main/images/Linux%20network%20configuration.png)
 
 **_Figure_**_: Linux network configuration_
 
@@ -30,11 +30,11 @@ This project involves the design, simulation, and performance benchmarking of a 
 
 **4\. Performance Testing & Results**
 
-![Throughput comparison graph](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/images/Throughput%20perfomance%20comparison%20graph.png)
+![Throughput comparison graph](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/main/images/Throughput%20perfomance%20comparison%20graph.png)
 
 **_Figure_**_: Wireshark Throughput comparison graph_
 
-![RTT comparison graph](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/images/RTT%20performance%20comparison%20graph.png)
+![RTT comparison graph](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/main/images/RTT%20performance%20comparison%20graph.png)
 
 **_Figure_**_: Wireshark Round-trip time comparison graph_
 
