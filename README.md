@@ -6,7 +6,7 @@ This project involves the design, simulation, and performance benchmarking of a 
 
 **2\. Methodology & Topology Design**
 
-!(Topology design.png)
+![Topology design](/Topology design.png)
 
 **_Figure_**_: Network Topology Design_
 
