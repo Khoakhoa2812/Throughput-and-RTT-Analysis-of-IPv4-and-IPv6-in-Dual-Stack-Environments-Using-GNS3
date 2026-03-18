@@ -1,10 +1,10 @@
-**Project:** Comparative Performance Analysis of IPv4 and IPv6 in Dual-Stack Environments
+## Comparative Performance Analysis of IPv4 and IPv6 in Dual-Stack Environments
 
-**1\. Project Overview**
+## 1. Project Overview
 
 This project involves the design, simulation, and performance benchmarking of a Dual-Stack network architecture. The primary goal was to measure the impact of protocol overhead on **Throughput** and **Round Trip Time (RTT)** within a virtualized enterprise environment.
 
-**2\. Methodology & Topology Design**
+## 2. Methodology & Topology Design**
 
 ![Topology design](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/main/images/Topology%20design.png)
 
@@ -14,7 +14,7 @@ This project involves the design, simulation, and performance benchmarking of a 
 *   **Infrastructure:** Integrated **Cisco 7200 Series** routers running IOS with **Ubuntu Linux** end-hosts.
 *   **Architecture:** Implemented a **Dual-Stack** model, allowing IPv4 and IPv6 to operate natively on the same physical (virtual) interfaces.
 
-**3\. Configuration & Implementation**
+## 3. Configuration & Implementation**
 
 ![Router configuration](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/main/images/Router%20configuration.png)
 
@@ -28,7 +28,7 @@ This project involves the design, simulation, and performance benchmarking of a 
 *   **Routing Logic:** Established using OSPF Dynamic Routing to ensure the flexibility and automation in routing.
 *   **Linux Administration:** Utilized the Ubuntu terminal to configure network interfaces (netplan or ifconfig) and verify connectivity.
 
-**4\. Performance Testing & Results**
+## 4. Performance Testing & Results**
 
 ![Throughput comparison graph](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/main/images/Throughput%20perfomance%20comparison%20graph.png)
 
@@ -49,7 +49,7 @@ This project involves the design, simulation, and performance benchmarking of a 
     *   IPv6 demonstrates strong performance in simulated enterprise WAN scenarios
     *   IPv6 shows comparable RTT performance to IPv4
 
-**5\. Technical Skills Demonstrated**
+## 5. Technical Skills Demonstrated**
 
 *   **Networking:** IPv4/IPv6 Dual-Stack, Routing, ICMP, TCP/UDP.
 *   **Tools:** GNS3, Wireshark, iPerf, VMware.
