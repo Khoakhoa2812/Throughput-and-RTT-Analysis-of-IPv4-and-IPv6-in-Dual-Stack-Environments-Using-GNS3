@@ -6,7 +6,7 @@ This project involves the design, simulation, and performance benchmarking of a 
 
 **2\. Methodology & Topology Design**
 
-![Topology design](/Topology design.png)
+![Topology design]([https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/Topology%20design.png](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/images/Router%20configuration.png))
 
 **_Figure_**_: Network Topology Design_
 
@@ -15,6 +15,12 @@ This project involves the design, simulation, and performance benchmarking of a 
 *   **Architecture:** Implemented a **Dual-Stack** model, allowing IPv4 and IPv6 to operate natively on the same physical (virtual) interfaces.
 
 **3\. Configuration & Implementation**
+
+![Router configuration]([https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/Router%20configuration.png](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/images/Router%20configuration.png))
+
+**_Figure_**_: Router configuration_
+
+![Linux network configuration](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/images/Linux%20network%20configuration.png)
 
 *   **Addressing:** Configured IPv4 (Class C) and IPv6 (Global Unicast) addressing schemes across all interfaces.
 *   **Routing Logic:** Established using OSPF Dynamic Routing to ensure the flexibility and automation in routing.
