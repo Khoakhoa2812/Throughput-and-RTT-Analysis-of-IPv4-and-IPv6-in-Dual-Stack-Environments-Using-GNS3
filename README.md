@@ -44,6 +44,11 @@ This project involves the design, simulation, and performance benchmarking of a 
     *   **Round-trip time:** Observed consistent RTT performance across both protocols, confirming IPv6’s readiness for real-time applications despite the header size.
 *   **Verification:** Used **Wireshark** to capture packets and inspect the differences in header structures and MTU behavior.
 
+*   **Key Fidings:**
+    *   IPv4 achieves slightly higher throughput in LAN due to smaller header size
+    *   IPv6 demonstrates strong performance in simulated enterprise WAN scenarios
+    *   IPv6 shows comparable RTT performance to IPv4
+
 **5\. Technical Skills Demonstrated**
 
 *   **Networking:** IPv4/IPv6 Dual-Stack, Routing, ICMP, TCP/UDP.
