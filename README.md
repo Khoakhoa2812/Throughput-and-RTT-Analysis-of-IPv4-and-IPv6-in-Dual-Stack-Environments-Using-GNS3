@@ -6,7 +6,7 @@ This project involves the design, simulation, and performance benchmarking of a 
 
 **2\. Methodology & Topology Design**
 
-![Topology design]([https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/Topology%20design.png](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/images/Router%20configuration.png))
+![Topology design](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/images/Topology%20design.png)
 
 **_Figure_**_: Network Topology Design_
 
@@ -16,17 +16,27 @@ This project involves the design, simulation, and performance benchmarking of a 
 
 **3\. Configuration & Implementation**
 
-![Router configuration]([https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/Router%20configuration.png](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/images/Router%20configuration.png))
+![Router configuration](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/images/Router%20configuration.png)
 
 **_Figure_**_: Router configuration_
 
 ![Linux network configuration](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/images/Linux%20network%20configuration.png)
+
+**_Figure_**_: Linux network configuration_
 
 *   **Addressing:** Configured IPv4 (Class C) and IPv6 (Global Unicast) addressing schemes across all interfaces.
 *   **Routing Logic:** Established using OSPF Dynamic Routing to ensure the flexibility and automation in routing.
 *   **Linux Administration:** Utilized the Ubuntu terminal to configure network interfaces (netplan or ifconfig) and verify connectivity.
 
 **4\. Performance Testing & Results**
+
+![Throughput comparison graph](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/images/Throughput%20perfomance%20comparison%20graph.png)
+
+**_Figure_**_: Wireshark Throughput comparison graph_
+
+![RTT comparison graph](https://github.com/Khoakhoa2812/Throughput-and-RTT-Analysis-of-IPv4-and-IPv6-in-Dual-Stack-Environments-Using-GNS3/blob/Khoakhoa2812-test/images/RTT%20performance%20comparison%20graph.png)
+
+**_Figure_**_: Wireshark Round-trip time comparison graph_
 
 *   **Tooling:** Utilized **iPerf** for TCP/UDP throughput testing and **ICMP** for latency (RTT) measurement.
 *   **Analysis:**
